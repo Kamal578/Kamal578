@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Ahmadov</h1>
-<h3 align="center">Computer Science Junior at French-Azerbaijani University (UFAZ) 🇫🇷 🇦🇿 . Web Developer</h3>
+<h3 align="center">Computer Science Senior at French-Azerbaijani University (UFAZ) 🇫🇷 🇦🇿 . Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
